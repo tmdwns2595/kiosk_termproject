@@ -1,3 +1,4 @@
 # kiosk_termproject
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Kiosk%20TermProject&fontSize=80)
+## 프로젝트 설명
+본 프로젝트는 키오스크 구현 과제입니다. 
