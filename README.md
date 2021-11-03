@@ -19,4 +19,4 @@
 <img width="60%" src="https://user-images.githubusercontent.com/52947821/140093007-d534210f-275b-4e13-9137-d6170bd958ee.jpg"/>
 
 ## Citing
-<a href="https://www.bhc.co.kr/menu/chicken.asp" target="_blank">BHC</a> 홈페이지에 있는 이미지와 정보들을 활용하였습니다. 
+<a href="https://www.bhc.co.kr/menu/chicken.asp">BHC</a> 홈페이지에 있는 이미지와 정보들을 활용하였습니다. 
