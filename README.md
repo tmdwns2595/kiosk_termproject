@@ -5,3 +5,7 @@
 
 ## Display
 - 초기 화면
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140092166-b1d7a572-90ef-40b2-9dd3-aa049abeeac6.jpg"/>
+
+- 주문 화면
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140092166-b1d7a572-90ef-40b2-9dd3-aa049abeeac6.jpg"/>
