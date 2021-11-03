@@ -17,3 +17,6 @@
 <img width="60%" src="https://user-images.githubusercontent.com/52947821/140092991-e38c8889-19f0-4534-aede-bdb180a9ce38.jpg"/>
 <img width="60%" src="https://user-images.githubusercontent.com/52947821/140092998-4722a2cd-1261-4a29-94ce-de16e6d4b68a.jpg"/>
 <img width="60%" src="https://user-images.githubusercontent.com/52947821/140093007-d534210f-275b-4e13-9137-d6170bd958ee.jpg"/>
+
+## Citing
+<a href="https://www.bhc.co.kr/menu/chicken.asp">BHC</a> 홈페이지에 있는 이미지와 정보들을 활용하였습니다. 
