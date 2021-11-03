@@ -11,4 +11,9 @@
 <img width="60%" src="https://user-images.githubusercontent.com/52947821/140092608-337bf9de-4f24-4508-8582-c79e78a04e0f.jpg"/>
 
 - 메뉴 추가 화면
-<img width="60%" src="https://user-images.githubusercontent.com/52947821/140092608-337bf9de-4f24-4508-8582-c79e78a04e0f.jpg"/>
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140092783-bb061cdb-5db8-4cfc-96da-148283e5f638.jpg"/>
+
+- 결제 화면
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140092783-bb061cdb-5db8-4cfc-96da-148283e5f638.jpg"/>
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140092783-bb061cdb-5db8-4cfc-96da-148283e5f638.jpg"/>
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140092783-bb061cdb-5db8-4cfc-96da-148283e5f638.jpg"/>
