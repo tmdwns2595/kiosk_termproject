@@ -3,6 +3,10 @@
 ## Overview
 키오스크 프로젝트로 대표적인 치킨 프랜차이즈 브랜드 BHC의 메뉴들을 이용한 키오스크 프로그램을 제작했다. 
 
+## 사용 언어 및 툴
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+
 ## Display
 - 초기 화면
 <img width="60%" src="https://user-images.githubusercontent.com/52947821/140092166-b1d7a572-90ef-40b2-9dd3-aa049abeeac6.jpg"/>
