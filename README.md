@@ -8,4 +8,7 @@
 <img width="60%" src="https://user-images.githubusercontent.com/52947821/140092166-b1d7a572-90ef-40b2-9dd3-aa049abeeac6.jpg"/>
 
 - 주문 화면
-<img width="60%" src="https://user-images.githubusercontent.com/52947821/140092166-b1d7a572-90ef-40b2-9dd3-aa049abeeac6.jpg"/>
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140092608-337bf9de-4f24-4508-8582-c79e78a04e0f.jpg"/>
+
+- 메뉴 추가 화면
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140092608-337bf9de-4f24-4508-8582-c79e78a04e0f.jpg"/>
